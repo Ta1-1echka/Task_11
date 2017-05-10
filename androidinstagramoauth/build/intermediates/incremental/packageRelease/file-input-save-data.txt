@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Wed May 10 17:35:22 MSK 2017
+1.base=C\:\\Users\\Ta1-1\\AndroidStudioProjects\\Task_11\\androidinstagramoauth\\build\\intermediates\\res\\resources-release.ap_
+4.file=C\:\\Users\\Ta1-1\\AndroidStudioProjects\\Task_11\\androidinstagramoauth\\build\\intermediates\\res\\resources-release.ap_\\AndroidManifest.xml
+1.file=C\:\\Users\\Ta1-1\\AndroidStudioProjects\\Task_11\\androidinstagramoauth\\build\\intermediates\\res\\resources-release.ap_\\res\\layout\\main.xml
+4.set=ANDROID_RESOURCE
+2.base=C\:\\Users\\Ta1-1\\AndroidStudioProjects\\Task_11\\androidinstagramoauth\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
+3.set=ANDROID_RESOURCE
+2.set=DEX
+2.file=C\:\\Users\\Ta1-1\\AndroidStudioProjects\\Task_11\\androidinstagramoauth\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main\\classes.dex
+count=5
+1.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\Ta1-1\\AndroidStudioProjects\\Task_11\\androidinstagramoauth\\build\\intermediates\\res\\resources-release.ap_
+0.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\Ta1-1\\AndroidStudioProjects\\Task_11\\androidinstagramoauth\\build\\intermediates\\res\\resources-release.ap_
+3.file=C\:\\Users\\Ta1-1\\AndroidStudioProjects\\Task_11\\androidinstagramoauth\\build\\intermediates\\res\\resources-release.ap_\\resources.arsc
+0.file=C\:\\Users\\Ta1-1\\AndroidStudioProjects\\Task_11\\androidinstagramoauth\\build\\intermediates\\res\\resources-release.ap_\\res\\drawable\\icon.png
+4.base=C\:\\Users\\Ta1-1\\AndroidStudioProjects\\Task_11\\androidinstagramoauth\\build\\intermediates\\res\\resources-release.ap_

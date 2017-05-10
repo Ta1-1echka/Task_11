@@ -1,0 +1,4 @@
+#Wed May 10 17:35:22 MSK 2017
+base.0=C\:\\Users\\Ta1-1\\AndroidStudioProjects\\Task_11\\androidinstagramoauth\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\Ta1-1\\AndroidStudioProjects\\Task_11\\androidinstagramoauth\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main\\classes.dex

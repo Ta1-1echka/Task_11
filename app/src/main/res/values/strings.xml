@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Task_11</string>
+    <string name="facebook_app_id">1942039502696027</string>
+    <integer name="com_vk_sdk_AppId">6019074</integer>
 </resources>

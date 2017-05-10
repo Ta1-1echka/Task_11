@@ -7,33 +7,51 @@
     android:orientation="vertical"
     tools:context="com.tanya.task_11.MainActivity">
 
-    <LinearLayout
+
+
+    <com.facebook.login.widget.LoginButton
+        android:id="@+id/login_button"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="30dp" />
+    <Button
+        android:id="@+id/vk"
+        android:layout_width="250dp"
+        android:layout_gravity="center_horizontal"
+        android:background="@color/vk"
+        android:textColor="@color/text"
+        android:text="Log in with vk.com"
+        android:textAllCaps="false"
+        android:layout_marginBottom="10dp"
+        android:drawableLeft="@drawable/vk_small"
+        android:layout_height="30dp" />
+    <Button
+        android:id="@+id/insta"
+        android:layout_width="250dp"
+        android:layout_gravity="center_horizontal"
+        android:background="@color/instagram"
+        android:textColor="@color/text"
+        android:layout_marginBottom="10dp"
+        android:text="Log in with instagram"
+        android:textAllCaps="false"
+        android:drawableLeft="@drawable/vk_small"
+        android:layout_height="30dp" />
+
+    <TextView
+        android:id="@+id/text"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="horizontal"
-        android:layout_marginTop="20dp"
-        android:layout_marginBottom="20dp">
+        android:gravity="center"
+        android:paddingBottom="15dp"
+        android:paddingTop="15dp"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="18dp" />
 
-        <Button
-            android:id="@+id/vk"
-            android:layout_width="70dp"
-            android:layout_height="70dp"
-            android:layout_marginLeft="35dp"
-            android:layout_marginRight="35dp"
-            android:background="@drawable/vk" />
-
-        <Button
-            android:layout_width="70dp"
-            android:layout_height="70dp"
-            android:layout_marginRight="35dp"
-            android:background="@drawable/inst" />
-
-        <Button
-            android:layout_width="70dp"
-            android:layout_height="70dp"
-            android:layout_marginRight="35dp"
-            android:background="@drawable/f" />
-    </LinearLayout>
-
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
 
 </LinearLayout>
